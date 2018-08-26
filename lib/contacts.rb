@@ -15,5 +15,5 @@ require 'pry'
     }
   
 def remove_strawberry(contacts)
-    contac
+    contacts["Freddy Mercury"].each
 end
