@@ -20,4 +20,5 @@ def remove_strawberry(contacts)
         value.shift
         value
       end
+    end
 end
